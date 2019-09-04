@@ -1,3 +1,88 @@
+﻿##### INSTALL HADOOP #####
+1. set environment variable (system)
+- HADOOP_HOME: D:\hadoop-2.8.5 (tempat extract hadoop)
+- JAVA_HOME: C:\Progra~1\Java\jdk1.8.0_191 (instalasi java)
+- PATH: 
+C:\Progra~1\Java\jdk1.8.0_191\bin; 
+D:\hadoop-2.8.5\bin
+D:\hadoop-2.8.5\sbin
+
+Note: 
+Pastikan tidak menggunakan C:\Program Files\; jika ada ganti menjadi C:\Progra~1\
+Wajib menggunakan Java 8, diatas Java 8 akan error.
+
+2. Konfigurasi Hadoop
+Konfigurasi etc\core-site.xml
+<configuration>
+   <property>
+     <name>fs.default.name</name>
+     <value>hdfs://0.0.0.0:19000</value>
+   </property> 
+</configuration>
+
+Konfigurasi etc\hadoop-env.cmd
+set JAVA_HOME=C:\Progra~1\Java\jdk1.8.0_191
+
+Konfigurasi etc\hadoop-env.cmd
+set JAVA_HOME=C:\Progra~1\Java\jdk1.8.0_191
+
+- Buat folder data\namenode
+- Buat folder data\datanote
+
+Konfigurasi etc\hdfs-site.xml
+<configuration>
+   <property>
+      <name>dfs.replication</name>
+      <value>1</value>
+   </property>
+   <property>
+      <name>dfs.namenode.name.dir</name>
+      <value>D:\hadoop-2.8.5\data\namenode</value>
+   </property>
+   <property>
+      <name>dfs.datanode.data.dir</name>
+      <value>D:\hadoop-2.8.5\data\datanode</value>
+   </property>
+</configuration>
+
+Konfigurasi etc\mapred-site.xml
+<configuration>
+   <property>
+       <name>mapreduce.framework.name</name>
+       <value>yarn</value>
+   </property>
+</configuration>
+
+Konfigurasi etc\yarn-site.xml
+<configuration>
+	<property>
+		<name>yarn.resourcemanager.hostname</name>
+		<value>0.0.0.0</value>
+	</property>
+	<property>
+		<name>yarn.nodemanager.disk-health-checker.max-disk-utilization-per-disk-percentage</name>
+		<value>98.5</value>
+	</property>
+   <property>
+    	<name>yarn.nodemanager.aux-services</name>
+    	<value>mapreduce_shuffle</value>
+   </property>
+   <property>
+      	<name>yarn.nodemanager.auxservices.mapreduce.shuffle.class</name>  
+		<value>org.apache.hadoop.mapred.ShuffleHandler</value>
+   </property>
+</configuration>
+
+3. Jalankan Hadoop
+Buka command prompt menggunakan administrator, jalankan perintah
+- hdfs namenode -format
+- start-all.cmd
+jika berhasil maka akan tampil 4 command prompt baru, nama window: namenode, datanode, resourcemanager, nodemanager
+
+Referensi:
+https://exitcondition.com/install-hadoop-windows/
+https://github.com/MuhammadBilalYar/Hadoop-On-Window/wiki/Step-by-step-Hadoop-2.8.0-installation-on-Window-10
+
 ##### Compile file JAVA ##### 
 javac -classpath D:\hadoop-2.8.5\share\hadoop\common\*;D:\hadoop-2.8.5\share\hadoop\mapreduce\* WordCount.java
 jar cvf WordCount.jar WordCount$Map.class WordCount$Reduce.class WordCount.class
@@ -15,7 +100,7 @@ hadoop jar WordCount.jar WordCount /wordcount/input /wordcount/output
 
 ##### INSTALL SPARK #####
 1. set environment variable (system)
-- HADOOP_HOME: D:\hadoop-2.8.5 (ada file winutils.exe)
+- HADOOP_HOME: D:\hadoop-2.8.5
 - JAVA_HOME: C:\Progra~1\Java\jdk1.8.0_191
 - SPARK_HOME: C:\spark-2.4.3
 - PATH: 
