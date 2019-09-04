@@ -1,0 +1,5 @@
+https://towardsdatascience.com/almost-real-time-twitter-sentiment-analysis-with-tweep-vader-f88ed5b93b1c
+
+https://www.codementor.io/prateekkrjain/visualize-news-word-cloud-using-python-flask-and-jqcloud-8i3w57cfb
+https://github.com/prateekkrjain/newsapi_word_cloud
+https://stackoverflow.com/questions/30803168/data-map-is-not-a-function

@@ -1,0 +1,137 @@
+##### Compile file JAVA ##### 
+javac -classpath D:\hadoop-2.8.5\share\hadoop\common\*;D:\hadoop-2.8.5\share\hadoop\mapreduce\* WordCount.java
+jar cvf WordCount.jar WordCount$Map.class WordCount$Reduce.class WordCount.class
+
+##### Input file text to HDFS ##### 
+hdfs dfs -mkdir /wordcount
+hdfs dfs -mkdir /wordcount/input
+hdfs dfs -copyFromLocal README.txt /wordcount/input #siapkan file dalam current folder
+hdfs dfs -copyFromLocal LICENSE.txt /wordcount/input #siapkan file dalam current folder
+hdfs dfs -ls /wordcount/input
+hdfs dfs -cat /wordcount/input/README.txt
+
+##### Run wordcount apps ##### 
+hadoop jar WordCount.jar WordCount /wordcount/input /wordcount/output
+
+##### INSTALL SPARK #####
+1. set environment variable (system)
+- HADOOP_HOME: D:\hadoop-2.8.5 (ada file winutils.exe)
+- JAVA_HOME: C:\Progra~1\Java\jdk1.8.0_191
+- SPARK_HOME: C:\spark-2.4.3
+- PATH: 
+C:\Progra~1\Java\jdk1.8.0_191\bin; 
+C:\spark-2.4.3\bin; 
+C:\Users\ROG-GL553VD\Anaconda3; 
+C:\Users\ROG-GL553VD\Anaconda3\Scripts;
+
+Open Command Prompt
+2. Cek Version Python: python --version
+3. Run: pyspark
+
+Troubleshoot
+create folder C:\tmp\hive
+cmd+Administrator: winutils.exe chmod 777 C:\tmp\hive
+
+#########################
+
+#### EXAMPLE APP SPARK #####
+- FIND URL hdfs
+hdfs getconf -confKey fs.default.name
+
+### WORD COUNT ###
+text_file = sc.textFile("hdfs://0.0.0.0:19000/wordcount/input") 
+
+count = text_file.flatMap(lambda line: line.split(" ")) \
+.map(lambda word: (word, 1)) \
+.reduceByKey(lambda a, b: a + b)
+count.saveAsTextFile("hdfs://0.0.0.0:19000/wordcount/output-spark")
+hdfs dfs -ls /wordcount/output-spark ### DALAM HADOOP ###
+hdfs dfs -cat /wordcount/output-spark/part-00000
+
+###
+
+### SIMPLE DATA DBMS [DataFrame API Examples] ###
+pyspark --driver-class-path C:\spark-2.4.3-bin-hadoop2.7\bin\mysql-connector-java-5.1.15-bin.jar --jars C:\spark-2.4.3-bin-hadoop2.7\bin\mysql-connector-java-5.1.15-bin.jar
+url = "jdbc:mysql://localhost:3306/remunerasi_2018?user=root"
+df = sqlContext.read.format("jdbc").option("url", url).option("dbtable", "d_pegawai").load()
+df.filter("pegNama like '%agus%'").show() ## search data
+countByGol = df.groupBy("pegGol").count() ## count data by column
+countByGol.show()
+
+###
+
+### Prediction with Logistic Regression [Machine Learning Example] ### ()
+We will use the same data set when we built a Logistic Regression in Python, and it is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict whether the client will subscribe (Yes/No) to a term deposit.
+(https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
+
+$$ Command Prompt Menggunakan Anaconda3. $$
+
+Dataset: https://www.kaggle.com/rouseguy/bankbalanced/downloads/bankbalanced.zip/1
+
+#Upload Dataset to hdfs
+hdfs dfs -mkdir /ml-bank
+hdfs dfs -mkdir /ml-bank/input
+hdfs dfs -copyFromLocal project/bank.csv /ml-bank/input
+hdfs dfs -ls /ml-bank/input
+
+#Create Dataframe
+from pyspark.sql import SparkSession
+spark = SparkSession.builder.appName('ml-bank').getOrCreate()
+df = spark.read.csv('hdfs://0.0.0.0:19000/ml-bank/input/bank.csv', header = True, inferSchema = True) #atau bisa pakai database
+df.printSchema()
+import pandas as pd
+pd.DataFrame(df.take(5), columns=df.columns).transpose()
+
+#Summary statistics for numeric variables
+numeric_features = [t[0] for t in df.dtypes if t[1] == 'int']
+df.select(numeric_features).describe().toPandas().transpose()
+
+#Preparing Data for Machine Learning.
+df = df.select('age', 'job', 'marital', 'education', 'default', 'balance', 'housing', 'loan', 'contact', 'duration', 'campaign', 'pdays', 'previous', 'poutcome', 'deposit')
+cols = df.columns
+df.printSchema()
+
+#Create Vector Column
+from pyspark.ml.feature import OneHotEncoderEstimator, StringIndexer, VectorAssembler
+categoricalColumns = ['job', 'marital', 'education', 'default', 'housing', 'loan', 'contact', 'poutcome']
+stages = []
+for categoricalCol in categoricalColumns:
+    stringIndexer = StringIndexer(inputCol = categoricalCol, outputCol = categoricalCol + 'Index')
+    encoder = OneHotEncoderEstimator(inputCols=[stringIndexer.getOutputCol()], outputCols=[categoricalCol + "classVec"])
+    stages += [stringIndexer, encoder]
+label_stringIdx = StringIndexer(inputCol = 'deposit', outputCol = 'label')
+stages += [label_stringIdx]
+numericCols = ['age', 'balance', 'duration', 'campaign', 'pdays', 'previous']
+assemblerInputs = [c + "classVec" for c in categoricalColumns] + numericCols
+assembler = VectorAssembler(inputCols=assemblerInputs, outputCol="features")
+stages += [assembler]
+
+from pyspark.ml import Pipeline
+pipeline = Pipeline(stages = stages)
+pipelineModel = pipeline.fit(df)
+df = pipelineModel.transform(df)
+selectedCols = ['label', 'features'] + cols
+df = df.select(selectedCols)
+df.printSchema()
+pd.DataFrame(df.take(5), columns=df.columns).transpose()
+
+#Training Dataset
+train, test = df.randomSplit([0.7, 0.3], seed = 2018)
+print("Training Dataset Count: " + str(train.count()))
+print("Test Dataset Count: " + str(test.count()))
+
+#Logistic Regression Model
+from pyspark.ml.classification import LogisticRegression
+lr = LogisticRegression(featuresCol = 'features', labelCol = 'label', maxIter=10)
+lrModel = lr.fit(train)
+lrModel.transform(df).show()
+
+#obtain the coefficients by using LogisticRegressionModel’s attributes
+import matplotlib.pyplot as plt
+import numpy as np
+beta = np.sort(lrModel.coefficients)
+plt.plot(beta)
+plt.ylabel('Beta Coefficients')
+plt.show()
+
+###

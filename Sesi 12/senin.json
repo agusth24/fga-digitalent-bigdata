@@ -1,0 +1,3923 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:12:12 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    76
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153125561935417345,
+    "id_str": "1153125561935417345",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Senin: semangat kerja, dapet duit, kumpulin, beliin kamu cincin deh..\n#Senin",
+    "timestamp_ms": "1563761532659",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 28 05:46:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "hehehe, jadi begini...",
+        "favourites_count": 873,
+        "follow_request_sent": null,
+        "followers_count": 67,
+        "following": null,
+        "friends_count": 281,
+        "geo_enabled": true,
+        "id": 4824184675,
+        "id_str": "4824184675",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Di sini senang, di sana senang",
+        "name": "ain",
+        "notifications": null,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4824184675/1544615124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150963502128881664/HOF_-j_8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150963502128881664/HOF_-j_8_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rsdntx",
+        "statuses_count": 2493,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://risdimedia.blogspot.com",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:12:24 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            },
+            {
+                "indices": [
+                    7,
+                    14
+                ],
+                "text": "PSSday"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/2JUAzgh",
+                "expanded_url": "http://bit.ly/2JUAzgh",
+                "indices": [
+                    24,
+                    47
+                ],
+                "url": "https://t.co/Mk4jxIK5Pw"
+            },
+            {
+                "display_url": "twitter.com/i/status/11527\u2026",
+                "expanded_url": "https://twitter.com/i/status/1152783247404744704/video/1",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/I1rMEEWjgX"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153125613013590017,
+    "id_str": "1153125613013590017",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "#Senin #PSSday \n\nLink : https://t.co/Mk4jxIK5Pw\n\nhttps://t.co/I1rMEEWjgX",
+    "timestamp_ms": "1563761544837",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 15 08:21:06 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "12 hrs Operator CS AktifQQ, and a full time mommy of little V. #PersibDay",
+        "favourites_count": 12,
+        "follow_request_sent": null,
+        "followers_count": 1156,
+        "following": null,
+        "friends_count": 20,
+        "geo_enabled": false,
+        "id": 1040878157610381313,
+        "id_str": "1040878157610381313",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Bandung, Jawa Barat",
+        "name": "Viona Felincia CS AktifQQ",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040878157610381313/1537002175",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040887129285390336/7Vc8haPv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040887129285390336/7Vc8haPv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vionafelincia",
+        "statuses_count": 198,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://aktif99.com/?ref=rctiqqnet",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:14:24 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153126112903327744",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/PVIvfkyoc6"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            152
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        124,
+                        130
+                    ],
+                    "text": "Senin"
+                },
+                {
+                    "indices": [
+                        131,
+                        145
+                    ],
+                    "text": "SeninSemangat"
+                },
+                {
+                    "indices": [
+                        146,
+                        152
+                    ],
+                    "text": "DGITM"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095006261248,
+                    "id_str": "1153126095006261248",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EuoU4AAmP9O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EuoU4AAmP9O.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1676,
+                            "resize": "fit",
+                            "w": 1676
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095002034177,
+                    "id_str": "1153126095002034177",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EunUYAESYXY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EunUYAESYXY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1814,
+                            "resize": "fit",
+                            "w": 1814
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095006289920,
+                    "id_str": "1153126095006289920",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EuoVUAAgYeq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EuoVUAAgYeq.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1984,
+                            "resize": "fit",
+                            "w": 1984
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095010406402,
+                    "id_str": "1153126095010406402",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EupUIAIIGXe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EupUIAIIGXe.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1867,
+                            "resize": "fit",
+                            "w": 1867
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095006261248,
+                    "id_str": "1153126095006261248",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EuoU4AAmP9O.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EuoU4AAmP9O.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1676,
+                            "resize": "fit",
+                            "w": 1676
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095002034177,
+                    "id_str": "1153126095002034177",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EunUYAESYXY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EunUYAESYXY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1814,
+                            "resize": "fit",
+                            "w": 1814
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095006289920,
+                    "id_str": "1153126095006289920",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EuoVUAAgYeq.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EuoVUAAgYeq.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1984,
+                            "resize": "fit",
+                            "w": 1984
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                },
+                {
+                    "display_url": "pic.twitter.com/jwy6sec1ps",
+                    "expanded_url": "https://twitter.com/SoviaJewelry/status/1153126112903327744/photo/1",
+                    "id": 1153126095010406402,
+                    "id_str": "1153126095010406402",
+                    "indices": [
+                        153,
+                        176
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6EupUIAIIGXe.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6EupUIAIIGXe.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1867,
+                            "resize": "fit",
+                            "w": 1867
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/jwy6sec1ps"
+                }
+            ]
+        },
+        "full_text": "Jurus andalan mengakhiri hubungan :\u2063\n\u2063\n\u201cKita udahan ya, aku mau nikahin kamu aja\u201d\u2063\n\u2063\nMau dilamar pake cincin yang mana? \ud83d\ude01\u2063\n\n#Senin #SeninSemangat #DGITM https://t.co/jwy6sec1ps"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126112903327744,
+    "id_str": "1153126112903327744",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Jurus andalan mengakhiri hubungan :\u2063\n\u2063\n\u201cKita udahan ya, aku mau nikahin kamu aja\u201d\u2063\n\u2063\nMau dilamar pake cincin yang m\u2026 https://t.co/PVIvfkyoc6",
+    "timestamp_ms": "1563761664020",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 26 09:45:37 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cincin Kawin Handmade Berkualitas | Spesialist Wedding Ring Custom | IG: Sovia Jewelry | Info : 085819999607",
+        "favourites_count": 55,
+        "follow_request_sent": null,
+        "followers_count": 117,
+        "following": null,
+        "friends_count": 92,
+        "geo_enabled": false,
+        "id": 857168779901620224,
+        "id_str": "857168779901620224",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kota Yogyakarta, Yogyakarta",
+        "name": "SoviaJewelry",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/857168779901620224/1550812499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137022291336765440/3qK5gtp__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137022291336765440/3qK5gtp__normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SoviaJewelry",
+        "statuses_count": 976,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://soviajewelry.com",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:06 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    11
+                ],
+                "text": "Senin"
+            },
+            {
+                "indices": [
+                    72,
+                    84
+                ],
+                "text": "StreamHumph"
+            },
+            {
+                "indices": [
+                    85,
+                    94
+                ],
+                "text": "Pentagon"
+            },
+            {
+                "indices": [
+                    95,
+                    101
+                ],
+                "text": "Humph"
+            },
+            {
+                "indices": [
+                    103,
+                    108
+                ],
+                "text": "\uc811\uadfc\uae08\uc9c0"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153126289798131713",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/7a7jJeIkpo"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            153
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        5,
+                        11
+                    ],
+                    "text": "Senin"
+                },
+                {
+                    "indices": [
+                        72,
+                        84
+                    ],
+                    "text": "StreamHumph"
+                },
+                {
+                    "indices": [
+                        85,
+                        94
+                    ],
+                    "text": "Pentagon"
+                },
+                {
+                    "indices": [
+                        95,
+                        101
+                    ],
+                    "text": "Humph"
+                },
+                {
+                    "indices": [
+                        103,
+                        108
+                    ],
+                    "text": "\uc811\uadfc\uae08\uc9c0"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "youtu.be/oDyFLIep_SA",
+                    "expanded_url": "https://youtu.be/oDyFLIep_SA",
+                    "indices": [
+                        130,
+                        153
+                    ],
+                    "url": "https://t.co/FbVTg3I6PH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "full_text": "Hari #Senin  gini enak nya diawali sama lagu yang happy and catchy bgt\n\n#StreamHumph #Pentagon #Humph  #\uc811\uadfc\uae08\uc9c0 \n\nHere's the link \u263a\ufe0f\nhttps://t.co/FbVTg3I6PH"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126289798131713,
+    "id_str": "1153126289798131713",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Hari #Senin  gini enak nya diawali sama lagu yang happy and catchy bgt\n\n#StreamHumph #Pentagon #Humph  #\uc811\uadfc\uae08\uc9c0 \n\nHere\u2026 https://t.co/7a7jJeIkpo",
+    "timestamp_ms": "1563761706195",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 06 13:59:16 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\uc624\ub298\ub3c4 \uc0ac\ub791\ud574 \uc18c\uc911\ud574 | Universe | '02 baby | Ind / Eng\nIndonesian",
+        "favourites_count": 11999,
+        "follow_request_sent": null,
+        "followers_count": 140,
+        "following": null,
+        "friends_count": 210,
+        "geo_enabled": false,
+        "id": 1015233722801577984,
+        "id_str": "1015233722801577984",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": null,
+        "name": "SUM(Geni:r)",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1015233722801577984/1562335128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150548899712524288/1qGuaolm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150548899712524288/1qGuaolm_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lngggn_",
+        "statuses_count": 2447,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:09 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    20
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126305124065280,
+    "id_str": "1153126305124065280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Nikmati libur #Senin",
+    "timestamp_ms": "1563761709849",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 04 19:06:02 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "gak kayak mantan mu",
+        "favourites_count": 7353,
+        "follow_request_sent": null,
+        "followers_count": 297,
+        "following": null,
+        "friends_count": 277,
+        "geo_enabled": false,
+        "id": 849337279420047360,
+        "id_str": "849337279420047360",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Lampung, Indonesia",
+        "name": "F I A N",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/849337279420047360/1499854722",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139332254872657920/8Q4ZSiRC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139332254872657920/8Q4ZSiRC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "firmanansori4",
+        "statuses_count": 2035,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://www.facebook.com/firman.ansori.7",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:14 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    65,
+                    85
+                ],
+                "text": "PowerfulConsultindo"
+            },
+            {
+                "indices": [
+                    86,
+                    102
+                ],
+                "text": "PowerfulSpeaker"
+            },
+            {
+                "indices": [
+                    103,
+                    108
+                ],
+                "text": "Aceh"
+            },
+            {
+                "indices": [
+                    109,
+                    115
+                ],
+                "text": "Medan"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153126323998482432",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/L4JzyAF4le"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            189
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        65,
+                        85
+                    ],
+                    "text": "PowerfulConsultindo"
+                },
+                {
+                    "indices": [
+                        86,
+                        102
+                    ],
+                    "text": "PowerfulSpeaker"
+                },
+                {
+                    "indices": [
+                        103,
+                        108
+                    ],
+                    "text": "Aceh"
+                },
+                {
+                    "indices": [
+                        109,
+                        115
+                    ],
+                    "text": "Medan"
+                },
+                {
+                    "indices": [
+                        116,
+                        126
+                    ],
+                    "text": "Pekanbaru"
+                },
+                {
+                    "indices": [
+                        127,
+                        134
+                    ],
+                    "text": "Padang"
+                },
+                {
+                    "indices": [
+                        135,
+                        152
+                    ],
+                    "text": "MondayMotivation"
+                },
+                {
+                    "indices": [
+                        153,
+                        167
+                    ],
+                    "text": "MondayMorning"
+                },
+                {
+                    "indices": [
+                        168,
+                        182
+                    ],
+                    "text": "SeninSemangat"
+                },
+                {
+                    "indices": [
+                        183,
+                        189
+                    ],
+                    "text": "Senin"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/wcKDjJWU3m",
+                    "expanded_url": "https://twitter.com/powerfulconsult/status/1153126323998482432/photo/1",
+                    "id": 1153126316889145344,
+                    "id_str": "1153126316889145344",
+                    "indices": [
+                        190,
+                        213
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6RpNVAAAwt9A.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6RpNVAAAwt9A.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "medium": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/wcKDjJWU3m"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/wcKDjJWU3m",
+                    "expanded_url": "https://twitter.com/powerfulconsult/status/1153126323998482432/photo/1",
+                    "id": 1153126316889145344,
+                    "id_str": "1153126316889145344",
+                    "indices": [
+                        190,
+                        213
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6RpNVAAAwt9A.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6RpNVAAAwt9A.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "medium": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/wcKDjJWU3m"
+                }
+            ]
+        },
+        "full_text": "Selamat pagi, Sobat Powerful.\nMeskipun hujan, tetap semnagt ya.\n\n#PowerfulConsultindo #PowerfulSpeaker #Aceh #Medan #Pekanbaru #Padang #MondayMotivation #MondayMorning #SeninSemangat #Senin https://t.co/wcKDjJWU3m"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126323998482432,
+    "id_str": "1153126323998482432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Selamat pagi, Sobat Powerful.\nMeskipun hujan, tetap semnagt ya.\n\n#PowerfulConsultindo #PowerfulSpeaker #Aceh #Medan\u2026 https://t.co/L4JzyAF4le",
+    "timestamp_ms": "1563761714349",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 31 08:02:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Success Inspirator || Property Developer",
+        "favourites_count": 44,
+        "follow_request_sent": null,
+        "followers_count": 265,
+        "following": null,
+        "friends_count": 121,
+        "geo_enabled": true,
+        "id": 479323350,
+        "id_str": "479323350",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Jakarta - Indonesia",
+        "name": "HARUN AL RASYID",
+        "notifications": null,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/479323350/1385524235",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/998514268587749377/XaJwP5Sm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/998514268587749377/XaJwP5Sm_normal.jpg",
+        "profile_link_color": "038C27",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "powerfulconsult",
+        "statuses_count": 2178,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://powerfulconsultindo.net",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:17 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126335272800256,
+    "id_str": "1153126335272800256",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin pagi ku diawali sedikit ada rasa sakit hati,, semoga tidak bad mood \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+    "timestamp_ms": "1563761717037",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 02 17:01:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I will make a thousand people smile... \ud83d\ude0a\ud83d\ude0a",
+        "favourites_count": 95,
+        "follow_request_sent": null,
+        "followers_count": 429,
+        "following": null,
+        "friends_count": 288,
+        "geo_enabled": true,
+        "id": 921385794,
+        "id_str": "921385794",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Surabaya, Indonesia",
+        "name": "Tari Rnerie",
+        "notifications": null,
+        "profile_background_color": "D209D6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/921385794/1398512209",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152583258590175232/N0heFM1w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152583258590175232/N0heFM1w_normal.jpg",
+        "profile_link_color": "ED00C9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CDC540",
+        "profile_text_color": "D30445",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Tarie228",
+        "statuses_count": 3223,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:17 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            },
+            {
+                "indices": [
+                    72,
+                    85
+                ],
+                "text": "pengangguran"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126339190222848,
+    "id_str": "1153126339190222848",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin masih dengan perilaku yang sama,, rebahan dan belum mandi. Dasar #pengangguran",
+    "timestamp_ms": "1563761717971",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 23 17:12:36 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pemalu yang banyak bicara!!",
+        "favourites_count": 53,
+        "follow_request_sent": null,
+        "followers_count": 4,
+        "following": null,
+        "friends_count": 14,
+        "geo_enabled": false,
+        "id": 1120737245525233664,
+        "id_str": "1120737245525233664",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Kota Makassar, Sulawesi Selata",
+        "name": "Pernah Dekat",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120737245525233664/1557093098",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152608123657474048/ZWd4qt5-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152608123657474048/ZWd4qt5-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dwii_pratiwii",
+        "statuses_count": 41,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:29 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    19
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2493957026,
+                "id_str": "2493957026",
+                "indices": [
+                    3,
+                    11
+                ],
+                "name": "KKP RI",
+                "screen_name": "kkpgoid"
+            },
+            {
+                "id": 2606229566,
+                "id_str": "2606229566",
+                "indices": [
+                    38,
+                    54
+                ],
+                "name": "Susi Pudjiastuti",
+                "screen_name": "susipudjiastuti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126388318081024,
+    "id_str": "1153126388318081024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Jul 22 01:53:56 +0000 2019",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        6
+                    ],
+                    "text": "Senin"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1153120965406027776",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/HQ3ZEgPiY1"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2606229566,
+                    "id_str": "2606229566",
+                    "indices": [
+                        25,
+                        41
+                    ],
+                    "name": "Susi Pudjiastuti",
+                    "screen_name": "susipudjiastuti"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                283
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            6
+                        ],
+                        "text": "Senin"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2606229566,
+                        "id_str": "2606229566",
+                        "indices": [
+                            25,
+                            41
+                        ],
+                        "name": "Susi Pudjiastuti",
+                        "screen_name": "susipudjiastuti"
+                    }
+                ]
+            },
+            "full_text": "#Senin pagi ini, Menteri @susipudjiastuti akan membuka Pelatihan Internasional bidang perikanan Kerja Sama Selatan-Selatan Triangular (KSST), sekaligus International Workshop on IUUF &amp; Organized Crimes in the Fishing Industry.\nPenasaran? Saksikan live streamingnya, sesaat lagi.\ud83d\ude09"
+        },
+        "favorite_count": 11,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1153120965406027776,
+        "id_str": "1153120965406027776",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "in",
+        "place": null,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "#Senin pagi ini, Menteri @susipudjiastuti akan membuka Pelatihan Internasional bidang perikanan Kerja Sama Selatan-\u2026 https://t.co/HQ3ZEgPiY1",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 14 09:48:09 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Kementerian Kelautan & Perikanan RI| Ministry of Marine Affairs & Fisheries (MMAF) of Republic of Indonesia| FB:Kementerian Kelautan & Perikanan RI| IG:@kkpgoid",
+            "favourites_count": 2525,
+            "follow_request_sent": null,
+            "followers_count": 328341,
+            "following": null,
+            "friends_count": 285,
+            "geo_enabled": true,
+            "id": 2493957026,
+            "id_str": "2493957026",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 187,
+            "location": "Indonesia",
+            "name": "KKP RI",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2493957026/1496209912",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/638892662674685952/zpET94tz_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/638892662674685952/zpET94tz_normal.png",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "kkpgoid",
+            "statuses_count": 20239,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://www.kkp.go.id",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @kkpgoid: #Senin pagi ini, Menteri @susipudjiastuti akan membuka Pelatihan Internasional bidang perikanan Kerja Sama Selatan-Selatan Tri\u2026",
+    "timestamp_ms": "1563761729684",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 29 02:15:27 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "BRSDM Riset Perikanan Budidaya Air Tawar dan Penyuluhan Perikanan",
+        "favourites_count": 6237,
+        "follow_request_sent": null,
+        "followers_count": 447,
+        "following": null,
+        "friends_count": 133,
+        "geo_enabled": true,
+        "id": 714637061198774273,
+        "id_str": "714637061198774273",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Jalan Sempur No.1 Bogor 16154",
+        "name": "BRSDM_BRPBATPP_Bogor",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/714637061198774273/1557902655",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024453413336051712/GOz65M5b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024453413336051712/GOz65M5b_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RISET_SEMPUR",
+        "statuses_count": 1934,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://kkp.go.id/brpbatsempur",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:41 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153126438259720193",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/vRzKLNaZPe"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            248
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        223,
+                        241
+                    ],
+                    "text": "TetapMasihOposisi"
+                },
+                {
+                    "indices": [
+                        242,
+                        248
+                    ],
+                    "text": "Senin"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pBdXo6VqJ9",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153126438259720193/photo/1",
+                    "id": 1153126427232915456,
+                    "id_str": "1153126427232915456",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6YERVUAAvZ3u.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6YERVUAAvZ3u.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 864,
+                            "resize": "fit",
+                            "w": 1152
+                        },
+                        "medium": {
+                            "h": 864,
+                            "resize": "fit",
+                            "w": 1152
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pBdXo6VqJ9"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pBdXo6VqJ9",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153126438259720193/photo/1",
+                    "id": 1153126427232915456,
+                    "id_str": "1153126427232915456",
+                    "indices": [
+                        249,
+                        272
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC6YERVUAAvZ3u.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC6YERVUAAvZ3u.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 864,
+                            "resize": "fit",
+                            "w": 1152
+                        },
+                        "medium": {
+                            "h": 864,
+                            "resize": "fit",
+                            "w": 1152
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pBdXo6VqJ9"
+                }
+            ]
+        },
+        "full_text": "sewa stand 2x2m ciledug. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa Rp.500.000/unit ukuran 2x2m. tlp/wa 081112520826/081316140397shalli\nruko riviera no.11 palem semi,karawaci,tangerang #TetapMasihOposisi #Senin https://t.co/pBdXo6VqJ9"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126438259720193,
+    "id_str": "1153126438259720193",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "sewa stand 2x2m ciledug. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa Rp.500.00\u2026 https://t.co/vRzKLNaZPe",
+    "timestamp_ms": "1563761741591",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 15 02:02:14 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sewa dan jual partisi pameran jabidetabek dan luar jabodetabek \ntlp/wa 081112520826 / 081316140397 salli\nruko riviera no.11 palem semi, karawaci, tangerang",
+        "favourites_count": 43,
+        "follow_request_sent": null,
+        "followers_count": 1,
+        "following": null,
+        "friends_count": 84,
+        "geo_enabled": false,
+        "id": 1150586335616352256,
+        "id_str": "1150586335616352256",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "sewa partisi pameran",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150586335616352256/1563333259",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pameran_sewa",
+        "statuses_count": 141,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://kontraktorpartisipameran14.blogspot.com/",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:52 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    11
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126484589940736,
+    "id_str": "1153126484589940736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Hari #Senin jangan males buat kerja,\nInget secape capenya orang kerja,lebih cape orang yang lagi nyari kerja",
+    "timestamp_ms": "1563761752637",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 05 23:31:49 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mencari Tulang Rusuk",
+        "favourites_count": 2327,
+        "follow_request_sent": null,
+        "followers_count": 59,
+        "following": null,
+        "friends_count": 59,
+        "geo_enabled": false,
+        "id": 1070460763754586112,
+        "id_str": "1070460763754586112",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bekasi, Jawa Barat",
+        "name": "suhe'",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070460763754586112/1563146487",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150266106017284096/26UoCrlq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150266106017284096/26UoCrlq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "soehermann",
+        "statuses_count": 719,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:52 +0000 2019",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126485730795520,
+    "id_str": "1153126485730795520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Terkadang ada rasa males kalau dah pagi apalagi hari#Senin",
+    "timestamp_ms": "1563761752909",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 13 05:47:00 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Hidup itu harus punya prinsip..",
+        "favourites_count": 514,
+        "follow_request_sent": null,
+        "followers_count": 5,
+        "following": null,
+        "friends_count": 79,
+        "geo_enabled": false,
+        "id": 1127812468233781248,
+        "id_str": "1127812468233781248",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "DKI Jakarta Indonesia",
+        "name": "Urang tasik",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127812468233781248/1557728453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127821673183322112/5kZNfhHs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127821673183322112/5kZNfhHs_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Urangtasik8",
+        "statuses_count": 155,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:15:58 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    6,
+                    12
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126508199677952,
+    "id_str": "1153126508199677952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "tr",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Sendu #Senin",
+    "timestamp_ms": "1563761758266",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 30 12:50:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 18,
+        "follow_request_sent": null,
+        "followers_count": 477,
+        "following": null,
+        "friends_count": 386,
+        "geo_enabled": true,
+        "id": 345344719,
+        "id_str": "345344719",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Bandar Lampung, Lampung",
+        "name": "Feby Widyaningrum",
+        "notifications": null,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/345344719/1510496675",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1048889396039041024/juXGuvAj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1048889396039041024/juXGuvAj_normal.jpg",
+        "profile_link_color": "A30505",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "ABEBB8",
+        "profile_text_color": "16119E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "widyaningrumfe_",
+        "statuses_count": 7166,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:16:57 +0000 2019",
+    "display_text_range": [
+        0,
+        11
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    11
+                ],
+                "text": "Senin"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2d81VjebyB",
+                "expanded_url": "https://twitter.com/FadilArsha/status/1153126757651771393/photo/1",
+                "id": 1153126748759834624,
+                "id_str": "1153126748759834624",
+                "indices": [
+                    12,
+                    35
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC6qyDUwAArU36.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC6qyDUwAArU36.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2d81VjebyB"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/2d81VjebyB",
+                "expanded_url": "https://twitter.com/FadilArsha/status/1153126757651771393/photo/1",
+                "id": 1153126748759834624,
+                "id_str": "1153126748759834624",
+                "indices": [
+                    12,
+                    35
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC6qyDUwAArU36.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC6qyDUwAArU36.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/2d81VjebyB"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126757651771393,
+    "id_str": "1153126757651771393",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "\ud83d\ude15\ud83d\ude15\ud83d\ude15\ud83d\ude15 #Senin https://t.co/2d81VjebyB",
+    "timestamp_ms": "1563761817740",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 17 00:40:04 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "hirup mh kalem weh",
+        "favourites_count": 878,
+        "follow_request_sent": null,
+        "followers_count": 32,
+        "following": null,
+        "friends_count": 129,
+        "geo_enabled": false,
+        "id": 1074464208098549760,
+        "id_str": "1074464208098549760",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Bekasi Timur, Indonesia",
+        "name": "Dileeey",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074464208098549760/1558619702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143067937474875394/wUXuh92q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143067937474875394/wUXuh92q_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FadilArsha",
+        "statuses_count": 216,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:16:58 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    111,
+                    117
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126760763940865,
+    "id_str": "1153126760763940865",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Seperti ini senin dandan seperti manusia biasanya pergi ke kantor seperti kantor manusia biasanya namanya juga #Senin",
+    "timestamp_ms": "1563761818482",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 20 02:15:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "AKAL",
+        "favourites_count": 105,
+        "follow_request_sent": null,
+        "followers_count": 445,
+        "following": null,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "id": 135001830,
+        "id_str": "135001830",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": "Palu Barat, Indonesia",
+        "name": "Orang Cina Gila",
+        "notifications": null,
+        "profile_background_color": "E8F8FB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135001830/1563186304",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150712722067083269/ty6GvEsl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150712722067083269/ty6GvEsl_normal.jpg",
+        "profile_link_color": "00BEA3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF200",
+        "profile_text_color": "FF385F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yunitaclaravan",
+        "statuses_count": 6754,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:17:00 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    15
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126767592267776,
+    "id_str": "1153126767592267776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Ini hari #Senin",
+    "timestamp_ms": "1563761820110",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 20 07:43:54 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Let me be your friend",
+        "favourites_count": 127,
+        "follow_request_sent": null,
+        "followers_count": 208,
+        "following": null,
+        "friends_count": 189,
+        "geo_enabled": false,
+        "id": 394547483,
+        "id_str": "394547483",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Jawa Tengah, Indonesia",
+        "name": "Kuah Sayur",
+        "notifications": null,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394547483/1558628682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/779863265379614721/urrpKWlN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/779863265379614721/urrpKWlN_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F7ECC1",
+        "profile_text_color": "4C7676",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thifaafaa",
+        "statuses_count": 3077,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:17:01 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    56
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126774168903681,
+    "id_str": "1153126774168903681",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Rasanya kemarin baru libur ehh sekarang udah hari #Senin",
+    "timestamp_ms": "1563761821678",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 16 02:24:35 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "bita\ud83c\udf38\nrebahan is everything \ud83d\udcaf",
+        "favourites_count": 310,
+        "follow_request_sent": null,
+        "followers_count": 5,
+        "following": null,
+        "friends_count": 16,
+        "geo_enabled": false,
+        "id": 1096596170221080576,
+        "id_str": "1096596170221080576",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Yogyakarta, Indonesia",
+        "name": "Yaudah",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096596170221080576/1561819686",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1147874152549797890/mhSLgVFH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147874152549797890/mhSLgVFH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AisyTsabita",
+        "statuses_count": 48,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:17:34 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126910659948544,
+    "id_str": "1153126910659948544",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "#Senin",
+    "timestamp_ms": "1563761854220",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 26 11:42:23 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2661 one of a kind \u2661",
+        "favourites_count": 38855,
+        "follow_request_sent": null,
+        "followers_count": 544,
+        "following": null,
+        "friends_count": 584,
+        "geo_enabled": true,
+        "id": 813349235353497600,
+        "id_str": "813349235353497600",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 29,
+        "location": null,
+        "name": "\u2726 ALSTOEMERIA.",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/813349235353497600/1561344050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149682369684594688/gWNuG5Kw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149682369684594688/gWNuG5Kw_normal.png",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rainversed",
+        "statuses_count": 45523,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://hougyoku.carrd.co",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:17:40 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126935490379776,
+    "id_str": "1153126935490379776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin bangun pagi semangat cari dosen...",
+    "timestamp_ms": "1563761860140",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 04 08:13:56 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jangan lupa percaya bahwa kamu hebat",
+        "favourites_count": 504,
+        "follow_request_sent": null,
+        "followers_count": 359,
+        "following": null,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "id": 1933562863,
+        "id_str": "1933562863",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "In Yogyakarta",
+        "name": "Ditaprnwt",
+        "notifications": null,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933562863/1531503453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111376855548870656/8Mf-jWxC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111376855548870656/8Mf-jWxC_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DhittaPurnawati",
+        "statuses_count": 3424,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:17:46 +0000 2019",
+    "display_text_range": [
+        0,
+        44
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    38,
+                    44
+                ],
+                "text": "Senin"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jMfmayDkyT",
+                "expanded_url": "https://twitter.com/inavyou/status/1153126960819666945/photo/1",
+                "id": 1153126949247602688,
+                "id_str": "1153126949247602688",
+                "indices": [
+                    45,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC62c7VUAAdGTi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC62c7VUAAdGTi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/jMfmayDkyT"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jMfmayDkyT",
+                "expanded_url": "https://twitter.com/inavyou/status/1153126960819666945/photo/1",
+                "id": 1153126949247602688,
+                "id_str": "1153126949247602688",
+                "indices": [
+                    45,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC62c7VUAAdGTi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC62c7VUAAdGTi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1536
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 900
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 510
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/jMfmayDkyT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153126960819666945,
+    "id_str": "1153126960819666945",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "si tayo drama banget dah ah pagi pagi #Senin https://t.co/jMfmayDkyT",
+    "timestamp_ms": "1563761866179",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 16 10:10:22 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 9,
+        "follow_request_sent": null,
+        "followers_count": 8,
+        "following": null,
+        "friends_count": 40,
+        "geo_enabled": false,
+        "id": 1118094270953484293,
+        "id_str": "1118094270953484293",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "na fish\ud83d\udc1f",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118094270953484293/1561792081",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151722373155938305/gUqoZRy8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151722373155938305/gUqoZRy8_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "inavyou",
+        "statuses_count": 37,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:01 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153127024774352896",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Nlqo1meJRL"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            258
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        233,
+                        251
+                    ],
+                    "text": "TetapMasihOposisi"
+                },
+                {
+                    "indices": [
+                        252,
+                        258
+                    ],
+                    "text": "Senin"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/e84NiEpaIi",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153127024774352896/photo/1",
+                    "id": 1153127016603897856,
+                    "id_str": "1153127016603897856",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC66X2U0AAR5Tw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC66X2U0AAR5Tw.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "medium": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "small": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/e84NiEpaIi"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/e84NiEpaIi",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153127024774352896/photo/1",
+                    "id": 1153127016603897856,
+                    "id_str": "1153127016603897856",
+                    "indices": [
+                        259,
+                        282
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC66X2U0AAR5Tw.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC66X2U0AAR5Tw.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "medium": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "small": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 648
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/e84NiEpaIi"
+                }
+            ]
+        },
+        "full_text": "sewa stand 2x3m tangerang selatan. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa Rp.500.000/unit ukuran 2x2m. tlp/wa 081112520826/081316140397shalli\nruko riviera no.11 palem semi,karawaci,tangerang #TetapMasihOposisi #Senin https://t.co/e84NiEpaIi"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127024774352896,
+    "id_str": "1153127024774352896",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "sewa stand 2x3m tangerang selatan. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa\u2026 https://t.co/Nlqo1meJRL",
+    "timestamp_ms": "1563761881427",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 15 02:02:14 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sewa dan jual partisi pameran jabidetabek dan luar jabodetabek \ntlp/wa 081112520826 / 081316140397 salli\nruko riviera no.11 palem semi, karawaci, tangerang",
+        "favourites_count": 43,
+        "follow_request_sent": null,
+        "followers_count": 1,
+        "following": null,
+        "friends_count": 84,
+        "geo_enabled": false,
+        "id": 1150586335616352256,
+        "id_str": "1150586335616352256",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "sewa partisi pameran",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150586335616352256/1563333259",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pameran_sewa",
+        "statuses_count": 142,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://kontraktorpartisipameran14.blogspot.com/",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:04 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127037348900864,
+    "id_str": "1153127037348900864",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin pagi ku masih diatas tempat tidur uangku :')",
+    "timestamp_ms": "1563761884425",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 21 15:33:06 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "karena saya nggak terlalu cakep makanya saya sombong",
+        "favourites_count": 0,
+        "follow_request_sent": null,
+        "followers_count": 0,
+        "following": null,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "id": 1152964724767641600,
+        "id_str": "1152964724767641600",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "Sombongsedikit",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152964913582620672/aIAQNNVl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152964913582620672/aIAQNNVl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sombongsedikit",
+        "statuses_count": 3,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:05 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    16
+                ],
+                "text": "Senin"
+            },
+            {
+                "indices": [
+                    83,
+                    94
+                ],
+                "text": "paidlsafar"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153127040586936321",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/WSVXTWBEXN"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            122
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        10,
+                        16
+                    ],
+                    "text": "Senin"
+                },
+                {
+                    "indices": [
+                        83,
+                        94
+                    ],
+                    "text": "paidlsafar"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Fzf73EdZm2",
+                    "expanded_url": "https://twitter.com/saputra_namaku/status/1153127040586936321/photo/1",
+                    "id": 1153127023318974465,
+                    "id_str": "1153127023318974465",
+                    "indices": [
+                        123,
+                        146
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC66w3UwAE43mD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC66w3UwAE43mD.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 373,
+                            "resize": "fit",
+                            "w": 711
+                        },
+                        "medium": {
+                            "h": 373,
+                            "resize": "fit",
+                            "w": 711
+                        },
+                        "small": {
+                            "h": 357,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Fzf73EdZm2"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Fzf73EdZm2",
+                    "expanded_url": "https://twitter.com/saputra_namaku/status/1153127040586936321/photo/1",
+                    "id": 1153127023318974465,
+                    "id_str": "1153127023318974465",
+                    "indices": [
+                        123,
+                        146
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC66w3UwAE43mD.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC66w3UwAE43mD.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 373,
+                            "resize": "fit",
+                            "w": 711
+                        },
+                        "medium": {
+                            "h": 373,
+                            "resize": "fit",
+                            "w": 711
+                        },
+                        "small": {
+                            "h": 357,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Fzf73EdZm2"
+                }
+            ]
+        },
+        "full_text": "Pada hari #Senin ini mahasiswa Jamiah Ahmadiyah Indonesia tingkat \u062b\u0644\u0627\u062b\u0629 mengadakan #paidlsafar dengan jarak tempuh 200 km. https://t.co/Fzf73EdZm2"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127040586936321,
+    "id_str": "1153127040586936321",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        106.739546,
+                        -6.488029
+                    ],
+                    [
+                        106.739546,
+                        -6.488029
+                    ],
+                    [
+                        106.739546,
+                        -6.488029
+                    ],
+                    [
+                        106.739546,
+                        -6.488029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Kampus Mubarak",
+        "id": "07d9dc39fb488000",
+        "name": "Kampus Mubarak",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9dc39fb488000.json"
+    },
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Pada hari #Senin ini mahasiswa Jamiah Ahmadiyah Indonesia tingkat \u062b\u0644\u0627\u062b\u0629 mengadakan #paidlsafar dengan jarak tempuh\u2026 https://t.co/WSVXTWBEXN",
+    "timestamp_ms": "1563761885197",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 25 14:47:12 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u0648\u064e\u0627\u0644\u0635\u0651\u064f\u0644\u0652\u062d\u064f \u062e\u064e\u064a\u0652\u0631\u064c\n\nDan perdamaian itu lebih baik [an-Nis\u00e2/4:128]",
+        "favourites_count": 3378,
+        "follow_request_sent": null,
+        "followers_count": 101,
+        "following": null,
+        "friends_count": 751,
+        "geo_enabled": true,
+        "id": 1011259520801112065,
+        "id_str": "1011259520801112065",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Indonesia",
+        "name": "Saputra Ramadani\ud83d\udead",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1011259520801112065/1561054239",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141770485484724224/CiuRYnjw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141770485484724224/CiuRYnjw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "saputra_namaku",
+        "statuses_count": 216,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://api.whatsapp.com/send?phone=6282251425552",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:16 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127086069915648,
+    "id_str": "1153127086069915648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin\nSenyumu nyenengin",
+    "timestamp_ms": "1563761896041",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 29 01:38:34 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Malang Kucecwara\nMahasiswa Teknik SIPIL 17",
+        "favourites_count": 332,
+        "follow_request_sent": null,
+        "followers_count": 88,
+        "following": null,
+        "friends_count": 188,
+        "geo_enabled": true,
+        "id": 1915857685,
+        "id_str": "1915857685",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "kota malang",
+        "name": "Kumbang",
+        "notifications": null,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915857685/1557384155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152820261256744960/Z79I2wEF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152820261256744960/Z79I2wEF_normal.png",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bambangCrazyFG",
+        "statuses_count": 971,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://www.instagram.com/kukuh_bambang_priyos/",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:33 +0000 2019",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153127158635622400",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Cla4KsQc7A"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            246
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        221,
+                        239
+                    ],
+                    "text": "TetapMasihOposisi"
+                },
+                {
+                    "indices": [
+                        240,
+                        246
+                    ],
+                    "text": "Senin"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/1o9jLLagSs",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153127158635622400/photo/1",
+                    "id": 1153127150465060865,
+                    "id_str": "1153127150465060865",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC7CKhUEAE2GQU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC7CKhUEAE2GQU.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 960,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/1o9jLLagSs"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/1o9jLLagSs",
+                    "expanded_url": "https://twitter.com/pameran_sewa/status/1153127158635622400/photo/1",
+                    "id": 1153127150465060865,
+                    "id_str": "1153127150465060865",
+                    "indices": [
+                        247,
+                        270
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EAC7CKhUEAE2GQU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EAC7CKhUEAE2GQU.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 960,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 900,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 510,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/1o9jLLagSs"
+                }
+            ]
+        },
+        "full_text": "sewa stand 2x2m bogor. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa Rp.500.000/unit ukuran 2x2m. tlp/wa 081112520826/081316140397shalli\nruko riviera no.11 palem semi,karawaci,tangerang #TetapMasihOposisi #Senin https://t.co/1o9jLLagSs"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127158635622400,
+    "id_str": "1153127158635622400",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "sewa stand 2x2m bogor. untuk bazar, seminar, jobfair, dll. tersedia ukuran 2x2m, 2x3m, 3x3m.\nharga sewa Rp.500.000/\u2026 https://t.co/Cla4KsQc7A",
+    "timestamp_ms": "1563761913342",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 15 02:02:14 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sewa dan jual partisi pameran jabidetabek dan luar jabodetabek \ntlp/wa 081112520826 / 081316140397 salli\nruko riviera no.11 palem semi, karawaci, tangerang",
+        "favourites_count": 43,
+        "follow_request_sent": null,
+        "followers_count": 1,
+        "following": null,
+        "friends_count": 84,
+        "geo_enabled": false,
+        "id": 1150586335616352256,
+        "id_str": "1150586335616352256",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "sewa partisi pameran",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150586335616352256/1563333259",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150586422794960897/CxJKJP5k_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pameran_sewa",
+        "statuses_count": 143,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://kontraktorpartisipameran14.blogspot.com/",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:44 +0000 2019",
+    "display_text_range": [
+        0,
+        52
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    0,
+                    6
+                ],
+                "text": "Senin"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XDs5bpg6q7",
+                "expanded_url": "https://twitter.com/hibernatenoc/status/1153127207440510977/photo/1",
+                "id": 1153127201618874368,
+                "id_str": "1153127201618874368",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC7FJFVUAAL7hs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC7FJFVUAAL7hs.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XDs5bpg6q7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XDs5bpg6q7",
+                "expanded_url": "https://twitter.com/hibernatenoc/status/1153127207440510977/photo/1",
+                "id": 1153127201618874368,
+                "id_str": "1153127201618874368",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/EAC7FJFVUAAL7hs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EAC7FJFVUAAL7hs.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XDs5bpg6q7"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127207440510977,
+    "id_str": "1153127207440510977",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "#Senin bukanlah hari pertama di kalender hp aku nder https://t.co/XDs5bpg6q7",
+    "timestamp_ms": "1563761924978",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 14 01:57:29 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "suka tidur tapi gak kelon",
+        "favourites_count": 317,
+        "follow_request_sent": null,
+        "followers_count": 18,
+        "following": null,
+        "friends_count": 125,
+        "geo_enabled": false,
+        "id": 1095864572760580096,
+        "id_str": "1095864572760580096",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "Hibernatenoc",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1095864572760580096/1550113091",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1126083757788631041/mSQfGsvB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1126083757788631041/mSQfGsvB_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hibernatenoc",
+        "statuses_count": 84,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:18:51 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    62
+                ],
+                "text": "YuhuListeners"
+            },
+            {
+                "indices": [
+                    96,
+                    105
+                ],
+                "text": "YuhuPagi"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1153127236771307521",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/j5AXOXbg0x"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            193
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        48,
+                        62
+                    ],
+                    "text": "YuhuListeners"
+                },
+                {
+                    "indices": [
+                        96,
+                        105
+                    ],
+                    "text": "YuhuPagi"
+                },
+                {
+                    "indices": [
+                        159,
+                        171
+                    ],
+                    "text": "HappyMonday"
+                },
+                {
+                    "indices": [
+                        172,
+                        178
+                    ],
+                    "text": "Senin"
+                },
+                {
+                    "indices": [
+                        179,
+                        193
+                    ],
+                    "text": "SeninSemangat"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 48936810,
+                    "id_str": "48936810",
+                    "indices": [
+                        130,
+                        140
+                    ],
+                    "name": "Ovie",
+                    "screen_name": "astryovie"
+                },
+                {
+                    "id": 64654067,
+                    "id_str": "64654067",
+                    "indices": [
+                        141,
+                        149
+                    ],
+                    "name": "Bimo Kusumo Yudo",
+                    "screen_name": "Bimo_KY"
+                }
+            ]
+        },
+        "full_text": "semoga senin kamu semeriah akhir pekan kamu yaa #YuhuListeners jangan lupa besok gabung lagi di #YuhuPagi Its always a Good Time\n\n@astryovie @Bimo_KY pamit..\n\n#HappyMonday #Senin #SeninSemangat"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127236771307521,
+    "id_str": "1153127236771307521",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "semoga senin kamu semeriah akhir pekan kamu yaa #YuhuListeners jangan lupa besok gabung lagi di #YuhuPagi Its alway\u2026 https://t.co/j5AXOXbg0x",
+    "timestamp_ms": "1563761931971",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 23 06:34:35 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "YUHU! Live di 07.00-09.00 | 16.00-20.00 WIB. Serentak di puluhan radio. Yuhu! products of MLIN \ud83d\udcde08001409191 \ud83d\udcf10811 855 892",
+        "favourites_count": 1034,
+        "follow_request_sent": null,
+        "followers_count": 3131,
+        "following": null,
+        "friends_count": 293,
+        "geo_enabled": true,
+        "id": 702018699868246016,
+        "id_str": "702018699868246016",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6,
+        "location": "Jakarta, Indonesia",
+        "name": "YUHU!",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/702018699868246016/1562577324",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/904159638525886464/_2yNctTS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/904159638525886464/_2yNctTS_normal.jpg",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Yuhu_Live",
+        "statuses_count": 17023,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://www.yuhu.id",
+        "utc_offset": null,
+        "verified": false
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 22 02:19:00 +0000 2019",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    33
+                ],
+                "text": "senin"
+            },
+            {
+                "indices": [
+                    34,
+                    45
+                ],
+                "text": "permenkiss"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1153127270732558336,
+    "id_str": "1153127270732558336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Melukis : Meluk sambil kis\n#senin #permenkiss",
+    "timestamp_ms": "1563761940068",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 21 21:46:26 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "sering minum kopi tapi ga pernah bosen",
+        "favourites_count": 4,
+        "follow_request_sent": null,
+        "followers_count": 0,
+        "following": null,
+        "friends_count": 4,
+        "geo_enabled": false,
+        "id": 1153058677886087168,
+        "id_str": "1153058677886087168",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Jogja",
+        "name": "Coco",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153058677886087168/1563746743",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153095752610004992/dmwjThQQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153095752610004992/dmwjThQQ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cocobukankoko",
+        "statuses_count": 2,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
