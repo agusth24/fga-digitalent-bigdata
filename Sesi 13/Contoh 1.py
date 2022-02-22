@@ -8,10 +8,10 @@ Created on Thu Jul 18 15:27:26 2019
 import tweepy
 import json
 
-ACCESS_TOKEN = '107282554-vCjzS0Xvdb5h6xnEUYu67mFTUaaUuCPVxCQ2sucd'
-ACCESS_SECRET = 'bt6KXJd6Jfo4qWgoImEZtjiZ7zBk3dF103arwxAUWOljE'
-CONSUMER_KEY = 'u83fQzGVBzGsWbMYEQ3oAwPL1'
-CONSUMER_SECRET = 'rqckM2STaYLQ7RvI3JedImh2tKXeeWzuuzImKObSjAAoApbkkE'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 
 def connect_twitter_OAuth():
     auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
